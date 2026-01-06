@@ -2,10 +2,11 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I have been developing R packages in the realms of population
-  genetics, epidemiology, reproducible research, and publication since 2012.
-  I enjoy cats, baking, mushroom hunting, bad horror movies, and good
-  speculative fiction.
+description: |
+  I work at the intersection of clinical genomics and bioinformatics—building
+  scalable NGS analysis workflows for cancer and rare diseases, and translating
+  sequencing data into clinically useful insights. Outside the lab, I’m usually
+  behind a camera or planning my next high-altitude trek.
 image_left: false
 images:
 - img/mushie-smol.jpg
@@ -13,11 +14,8 @@ sharing_image: "/img/mushie-smol.jpg"
 show_action_link: true
 show_social_links: true
 subtitle: |
-  Senior Software Engineer @ Recast
+  Bioinformatics Scientist | Cancer & Rare Disease Genomics | NGS Automation
 text_align_left: false
-title: Zhian N. Kamvar
+title: Sourabh Kumar Daksh
 type: home
 ---
-
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
