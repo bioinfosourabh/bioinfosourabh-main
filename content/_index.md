@@ -15,7 +15,7 @@ sharing_image: "/img/mushie-smol.jpg"
 show_action_link: true
 show_social_links: true
 subtitle: |
-  Bioinformatics Scientist | Cancer & Rare Disease Genomics | NGS Automation
+  Bioinformatics Scientist
 text_align_left: false
 title: Sourabh Kumar Daksh
 type: home
