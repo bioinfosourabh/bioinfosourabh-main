@@ -3,10 +3,11 @@ action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description: |
-  I work at the intersection of clinical genomics and bioinformatics—building
-  scalable NGS analysis workflows for cancer and rare diseases, and translating
-  sequencing data into clinically useful insights. Outside the lab, I’m usually
-  behind a camera or planning my next high-altitude trek.
+  I develop analysis algorithms in the realms of genomics, reproducible computational research,
+  and clinical translation, with a strong focus on cancer genomics and rare
+  diseases. Outside the lab, I’m usually
+  behind a camera or planning my next high-altitude trek, experiences that
+  shape how I think about observation, persistence.
 image_left: false
 images:
 - img/mushie-smol.jpg
