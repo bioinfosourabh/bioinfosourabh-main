@@ -93,29 +93,30 @@ renderer = "katex" # one of "mathjax" / "katex"
 # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
 # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
 [[params.social]]
-icon = "git-alt"
-icon_pack = "fab"
-url = "https://codeberg.org/zkamvar/zkamvar"
-[[params.social]]
 icon = "github"
 icon_pack = "fab"
 url = "https://github.com/bioinfosourabh"
+
 [[params.social]]
-icon = "mastodon"
+icon = "linkedin"
 icon_pack = "fab"
-url = "https://hachyderm.io/@zkamvar"
-[[params.social]]
-icon = "impactstory"
-icon_pack = "ai"
-url = "https://impactstory.org/u/0000-0003-1458-7108"
+url = "https://www.linkedin.com/in/sourabh-kumar-bioinfo/"
+
 [[params.social]]
 icon = "orcid"
 icon_pack = "ai"
 url = "https://orcid.org/0009-0009-5840-9830"
+
+[[params.social]]
+icon = "envelope"
+icon_pack = "fas"
+url = "mailto:bioinfosourabh@gmail.com"
+
 [[params.social]]
 icon = "rss"
 icon_pack = "fas"
 url = "/blog/index.xml"
+
 
 [taxonomies]
 category = "categories"
