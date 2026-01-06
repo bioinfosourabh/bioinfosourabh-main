@@ -1,11 +1,11 @@
 baseURL = "https://zkamvar.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Zhian N. Kamvar"
-author = "Zhian N. Kamvar"
+title = "Sourabh Kumar Daksh"
+author = "Sourabh Kumar Daksh"
 copyright = ""                           # set to override the auto generated copyright using org info and now year
 googleAnalytics = "UA-60561808-2"
-disqusShortname = "zkamvar"              # see params.utterances to use utterances instead of Disqus
+disqusShortname = "skdaksh"              # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;"   # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
@@ -35,7 +35,7 @@ ordered = false
 style = "perldoc"
 
 [params]
-orgName = "Zhian N. Kamvar"
+orgName = "Sourabh Kumar Daksh"
 orgLocal = ""
 description = "My personal site that features my projects, publications, and blog where I talk about various subjects including R programming, reproducible science, and population genetics."
 favicon = "/img/favicon.ico"
@@ -99,7 +99,7 @@ url = "https://codeberg.org/zkamvar/zkamvar"
 [[params.social]]
 icon = "github"
 icon_pack = "fab"
-url = "https://github.com/zkamvar"
+url = "https://github.com/bioinfosourabh"
 [[params.social]]
 icon = "mastodon"
 icon_pack = "fab"
@@ -111,7 +111,7 @@ url = "https://impactstory.org/u/0000-0003-1458-7108"
 [[params.social]]
 icon = "orcid"
 icon_pack = "ai"
-url = "http://orcid.org/0000-0003-1458-7108"
+url = "https://orcid.org/0009-0009-5840-9830"
 [[params.social]]
 icon = "rss"
 icon_pack = "fas"
