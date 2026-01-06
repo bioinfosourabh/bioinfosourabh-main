@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Zhian N. Kamvar, Ph. D.
+  Sourabh Kumar Daksh.
 ---
 
 I am a Senior Software Engineer at [Recast Labs](https://getrecast.com)
