@@ -6,8 +6,8 @@ headline: |
   Sourabh Kumar Daksh.
 ---
 
-I am a Senior Software Engineer at [Recast Labs](https://getrecast.com)
-supporting a fanastic team of data scientists.
+I am a Bioinformatics Scientist at [Recast Labs](https://getrecast.com)
+supporting a fanastic team of support of clinical and wet-lab scientists.
 I am the former Research Scientist at [All India Institute of Medical Sciences (AIIMS), New Delhi](https://aiims.edu/index.php/en) the , where I contributed to national genomic research projects involving whole-exome and whole-genome sequencing, transcriptomic analysis, and multi-omics data integration.and worked to make the Lesson
 Infrastructure a more accessible and friendly place to contribute. I’m trained
 in the [population genetics of clonal plant
