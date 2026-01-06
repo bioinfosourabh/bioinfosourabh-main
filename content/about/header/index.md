@@ -8,7 +8,7 @@ headline: |
 
 I am a Bioinformatics Scientist at [Metropolis Healthcare](https://www.metropolisindia.com/)
 supporting a fanastic team of support of clinical and wet-lab scientists.
-I am the former Research Scientist at [All India Institute of Medical Sciences (AIIMS), New Delhi](https://aiims.edu/index.php/en) the , where I contributed to national genomic research projects involving whole-exome and whole-genome sequencing, transcriptomic analysis, and multi-omics data integration.and worked to make the Lesson
+I am the former Research Scientist at [All India Institute of Medical Sciences (AIIMS), New Delhi](https://aiims.edu/index.php/en) , where I contributed to national genomic research projects involving whole-exome and whole-genome sequencing, transcriptomic analysis, and multi-omics data integration.and worked to make the Lesson
 Infrastructure a more accessible and friendly place to contribute. I’m trained
 in the [population genetics of clonal plant
 pathogens](https://grunwaldlab.github.io/poppr/) and have a strong passion for
