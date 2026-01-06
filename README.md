@@ -26,4 +26,4 @@ Some of my projects include:
 ![a mushroom growing from a bed of moss in front of a 200 year-old Bonsai in
 Portland's Japanese Garden](static/img/mushie-smol.jpg)
 
-N.B. My [website source is now on Codeberg](https://codeberg.org/zkamvar/zkamvar)
+
