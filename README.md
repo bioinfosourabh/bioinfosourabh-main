@@ -1,6 +1,6 @@
 # Sourabh Kumar Daksh
 
-I am a recovering bioinformatician and Research Software Engineer, responsible for developing
+I am a bioinformatician and Research Software Engineer, responsible for developing
 [The Carpentries Workbench](https://carpentries.github.io/workbench/).
 
 I have been developing R packages in the realms of population genetics, epidemiology, reproducible research, and publication since 2012.
