@@ -1,30 +1,38 @@
 ---
-author: Zhian N. Kamvar
+author: Sourabh Kumar Daksh
+
 cascade:
-  author: Zhian N. Kamvar
+  author: Sourabh Kumar Daksh
   show_author_byline: true
-  show_comments: true
+  show_comments: false
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
-description: "This is a fully featured blog that supports categories, \ntags, series,
-  and pagination.\n"
+
+description: >
+  A blog covering cancer genomics, rare disease research, bioinformatics
+  workflows, reproducible computational science, and reflections from
+  clinical and translational genomics.
+
 layout: list-sidebar
+
 show_author_byline: true
 show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
+
 sidebar:
-  author: Zhian N. Kamvar
-  description: "Thoughts about R, science, reproducibility, and probably other things I'm forgetting to mention here."
-  show_sidebar_adunit: true
+  author: Sourabh Kumar Daksh
+  title: Genomics Notes
+  description: >
+    Writing about genomics, bioinformatics pipelines,
+    reproducible research, and lessons from clinical sequencing.
+  show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
-  title: blog blag brag bran cran
+  text_link_url: /blog/index.xml
+
 thumbnail_left: true
 title: Blog
 ---
-
-** No content below YAML for the blog _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside blog/. You may still override any of these by changing them in a page's front matter.**
