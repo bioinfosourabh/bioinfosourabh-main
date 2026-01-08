@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Zhian N. Kamvar"
-role: "Research Software Engineer"
+author: "Sourabh Kumar Daksh"
+role: "Bioinformatics Scientist"
 avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "How to say my name" # leave blank to exclude
