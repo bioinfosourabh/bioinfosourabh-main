@@ -5,7 +5,7 @@ layout: list
 author: "Sourabh Kumar Daksh"
 
 description: |
-  Peer-reviewed articles, preprints, and manuscripts in preparation.
+  A list of my research publications and scholarly contributions.
 
 cascade:
   author: "Sourabh Kumar Daksh"
