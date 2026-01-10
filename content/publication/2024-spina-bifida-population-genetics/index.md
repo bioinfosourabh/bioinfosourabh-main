@@ -4,17 +4,19 @@ title: "Genetic Markers of Spina Bifida in an Indian Cohort"
 date: 2024-09-01
 publishDate: 2024-09-01T00:00:00Z
 
-authors:
-  - Prabudh Goel
-  - Mahima Sharma
-  - Himani Kaushik
-  - Sourabh Kumar
-  - Harpreet Singh
-  - Vishesh Jain
-  - Anjan Kumar Dhua
-  - Devendra Kumar Yadav
-  - Neeta Kumar
-  - Sandeep Agarwala
+author:
+  [
+    "Prabudh Goel",
+    "Mahima Sharma",
+    "Himani Kaushik",
+    "Sourabh Kumar",
+    "Harpreet Singh",
+    "Vishesh Jain",
+    "Anjan Kumar Dhua",
+    "Devendra Kumar Yadav",
+    "Neeta Kumar",
+    "Sandeep Agarwala"
+  ]
 
 publication_types:
   - article-journal
