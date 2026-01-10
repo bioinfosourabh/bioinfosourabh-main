@@ -4,15 +4,23 @@ title: "KMT2C Polymorphism in Familial Hypospadias"
 date: 2025-01-15
 publishDate: 2025-01-15T00:00:00Z
 
-authors:
-  - Sourabh Kumar
-  - Jyoti Sharma
-  - Rahila Sardar
-  - Vishesh Jain
-  - A. K. Dhua
-  - D. K. Yadav
-  - Sandeep Agarwala
-  - Monis Bilal Shamsi
+author:
+  [
+    "Sourabh Kumar",
+    "Jyoti Sharma",
+    "Rahila Sardar",
+    "Vishesh Jain",
+    "Anjan Kumar Dhua",
+    "Devendra Kumar Yadav",
+    "Sandeep Agarwala",
+    "Monis Bilal Shamsi",
+    "Hamdi Hameed Almaramhy",
+    "Harpreet Singh",
+    "Neeta Kumar",
+    "Himani Pandey",
+    "Prabudh Goel"
+  ]
+
 
 publication_types:
   - article-journal
