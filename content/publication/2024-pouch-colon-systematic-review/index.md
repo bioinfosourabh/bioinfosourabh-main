@@ -43,6 +43,12 @@ doi: "10.1007/s00383-024-05878-8"
 
 url_pdf: "https://link.springer.com/article/10.1007/s00383-024-05878-8"
 
+links:
+  - name: PDF
+    url: https://link.springer.com/article/10.1007/s00383-024-05878-8
+  - name: DOI
+    url: https://doi.org/10.1007/s00383-024-05878-8
+
 featured: false
 draft: false
 ---
