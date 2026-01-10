@@ -63,3 +63,33 @@ links:
 featured: false
 draft: false
 ---
+## Abstract
+
+### Objective
+To investigate the genetic basis of spina bifida in an Indian cohort using
+whole-exome sequencing and pathway enrichment analyses.
+
+### Methods
+Variants of uncertain significance (VUS) were identified through whole-exome
+sequencing in a pilot cohort of spina bifida patients (n = 3). Pathogenic, likely
+pathogenic, and VUS were analysed for protein–protein interactions and functional
+associations with genes implicated in spina bifida using STRING and KEGG pathway
+analyses. All findings were further validated through an extensive literature
+review, with particular focus on the Wnt/planar cell polarity signalling pathway,
+which plays a critical role in neural tube closure.
+
+### Results
+The study cohort shared 40 common VUS, including eight deleterious single
+nucleotide polymorphisms involving *AP3D1*, *NLRP9*, *PCDHGA11*, *PRSS3*, *MTSS2*,
+*ENDOV*, *C9*, and *NSD3*. These genes are functionally associated with neural
+development, immune response, and cellular processes essential for neural tube
+formation. Notably, functional interactions were observed between *NLGN2*,
+*PKD1*, *PRSS3*, and *PLK1* with *CTNNB1*, a key regulator of Wnt signalling during
+embryonic neural tube development.
+
+### Conclusions
+This study identifies novel genetic variants and molecular pathways that may
+contribute to the etiopathogenesis of spina bifida in the Indian population. The
+findings underscore the importance of pathway-based interpretation of genomic
+data and highlight the need for larger cohorts and functional validation studies
+to assess the clinical relevance of these variants.
