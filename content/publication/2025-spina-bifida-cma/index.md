@@ -52,6 +52,12 @@ doi: "10.4103/jiaps.jiaps_217_24"
 
 url_pdf: "https://journals.lww.com/jiap/fulltext/2025/30030/chromosomal_microarray_analysis_in_spina.7.aspx"
 
+links:
+  - name: PDF
+    url: https://journals.lww.com/jiap/fulltext/2025/30030/chromosomal_microarray_analysis_in_spina.7.aspx
+  - name: DOI
+    url: https://doi.org/10.4103/jiaps.jiaps_217_24
+
 featured: false
 draft: false
 ---
