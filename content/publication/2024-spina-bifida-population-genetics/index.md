@@ -48,3 +48,42 @@ featured: false
 draft: false
 ---
 
+## Abstract
+
+### Objective
+To identify genetic markers associated with spina bifida through a systematic
+survey of the exome in an Indian cohort.
+
+### Materials and Methods
+Three consecutive patients with spina bifida (lumbosacral meningomyelocele) were
+included in the study (P1: 1-year-old male; P2: 2.8-year-old male; P3: 10-year-old
+female). Whole-exome sequencing was performed using the SureSelect Human All Exon
+V8 library, followed by 2 × 150 bp paired-end sequencing (mean coverage ~100×) on
+the NovaSeq 6000 platform.
+
+Bioinformatic analysis was conducted using SMART-One™ (secondary analysis) and
+SMARTer™ (tertiary analysis) pipelines, including automated quality control,
+alignment to the GRCh38/hg38 reference genome, variant calling, and annotation
+using ClinVar, OMIM, dbSNP (avsnp150), 1000 Genomes (v5b), ExAC (v0.3), gnomAD
+(v4.0), and ESP6500. Pathogenic and likely pathogenic variants (ClinVar/InterVar),
+non-synonymous exonic variants with read depth ≥5 were filtered and matched
+against the Familial Neural Tube Defects (FNTD) Panel (version 1.10).
+
+### Results
+Pathogenic variants overlapping with the FNTD panel included *MTRR*, *CC2D2A*,
+and *ZIC2* in patients P1 and P2, and *TGIF1* exclusively in P1, while no such
+variants were identified in P3. Novel pathogenic or likely pathogenic variants
+shared across all three patients included *PRUNE1*, *PKD1*, *PDZD2*, and *DAB2*,
+identified in both homozygous and heterozygous states, as well as *PLK1* and
+*NLGN2*.
+
+The potential role of these variants in the etiopathogenesis of spina bifida was
+further explored through an extensive literature review.
+
+### Conclusions
+The genetic landscape of spina bifida in this Indian cohort demonstrates
+substantial diversity when compared with reports from other populations. This
+study provides a comprehensive catalogue of single-nucleotide variants
+potentially contributing to the etiopathogenesis of spina bifida within the
+framework of the Familial Neural Tube Defects Panel, supporting the need for
+population-specific genomic investigations.
