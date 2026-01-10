@@ -4,9 +4,11 @@ title: "Deep Genomics: Deep Learning-Based Analysis of Genome-Sequenced Data for
 date: 2025-01-01
 publishDate: 2025-01-01T00:00:00Z
 
-authors:
-  - Sourabh Kumar
-  - Prabudh Goel
+author:
+  [
+    "Sourabh Kumar",
+    "Prabudh Goel"
+  ]
 
 publication_types:
   - chapter-book
