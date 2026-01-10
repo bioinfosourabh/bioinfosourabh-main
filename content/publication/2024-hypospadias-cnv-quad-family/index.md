@@ -51,6 +51,12 @@ abstract: >
 doi: "10.21203/rs.3.rs-4843906/v1"
 url_pdf: "https://www.researchsquare.com/article/rs-4843906/v1"
 
+links:
+  - name: PDF
+    url: https://www.researchsquare.com/article/rs-4843906/v1
+  - name: DOI
+    url: https://doi.org/10.21203/rs.3.rs-4843906/v1
+
 featured: false
 draft: false
 ---
