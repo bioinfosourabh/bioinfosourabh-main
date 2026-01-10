@@ -56,4 +56,37 @@ links:
 featured: false
 draft: false
 ---
+## Abstract
 
+### Background
+Hypospadias is a common congenital anomaly of the male genitalia with significant
+heritability and familial recurrence, particularly in consanguineous families.
+Despite this, the underlying genetic architecture remains incompletely
+understood, especially in non-European populations.
+
+### Objective
+To investigate the role of *KMT2C* polymorphisms in the etiopathogenesis of
+familial hypospadias using a pedigree-based genomic approach.
+
+### Methods
+A Yemeni family with two affected siblings was investigated using comprehensive
+genetic analysis. Single nucleotide polymorphisms (SNPs) within the *KMT2C* gene
+were identified and analysed for inheritance patterns, functional relevance, and
+gene–gene interactions. Variant interpretation was supported by interaction and
+pathway analyses involving genes implicated in sex differentiation and genital
+development.
+
+### Results
+A total of 475 unique SNPs were identified in *KMT2C*, of which 59 variants were
+shared between both parents, suggesting a shared ancestral background. Functional
+interaction analysis revealed associations between *KMT2C* and key genes,
+including *MAP3K1*, *ATRX*, and *CHD7*, which are known to play roles in sex
+differentiation. Novel findings included a deleterious *BAHD1* mutation and a de
+novo rs201834857 variant associated with Kleefstra syndrome 2.
+
+### Conclusion
+This study highlights the multifactorial etiology of hypospadias, integrating
+genetic, epigenetic, and environmental contributors. The findings expand the
+understanding of *KMT2C*-associated genetic variation in familial hypospadias and
+underscore the need for further investigation in larger and ethnically diverse
+cohorts.
