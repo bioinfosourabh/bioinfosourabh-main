@@ -4,18 +4,20 @@ title: "Genetic Markers of Spina Bifida: Enrichment of Pathogenic Variants and V
 date: 2025-03-01
 publishDate: 2025-03-01T00:00:00Z
 
-authors:
-  - Jyoti Sharma
-  - Mahima Sharma
-  - Sourabh Kumar
-  - Himani Kaushik
-  - Himani Pandey
-  - Devi Lal
-  - Vishesh Jain
-  - Anjan Kumar Dhua
-  - Devendra Kumar Yadav
-  - Sandeep Agarwala
-  - Prabudh Goel
+author:
+  [
+    "Jyoti Sharma",
+    "Mahima Sharma",
+    "Sourabh Kumar",
+    "Himani Kaushik",
+    "Himani Pandey",
+    "Devi Lal",
+    "Vishesh Jain",
+    "Anjan Kumar Dhua",
+    "Devendra Kumar Yadav",
+    "Sandeep Agarwala",
+    "Prabudh Goel"
+  ]
 
 publication_types:
   - article-journal
