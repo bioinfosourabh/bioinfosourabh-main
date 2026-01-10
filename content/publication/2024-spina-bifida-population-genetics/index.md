@@ -38,6 +38,12 @@ doi: "10.4103/jiaps.jiaps_64_24"
 
 url_pdf: "https://journals.lww.com/jiap/fulltext/2024/29050/genetic_markers_of_spina_bifida_in_an_indian.17.aspx"
 
+links:
+  - name: PDF
+    url: https://journals.lww.com/jiap/fulltext/2024/29050/genetic_markers_of_spina_bifida_in_an_indian.17.aspx
+  - name: DOI
+    url: https://doi.org/10.4103/jiaps.jiaps_64_24
+
 featured: false
 draft: false
 ---
