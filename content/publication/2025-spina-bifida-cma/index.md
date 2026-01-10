@@ -4,18 +4,20 @@ title: "Chromosomal Microarray Analysis in Spina Bifida: Genetic Heterogeneity a
 date: 2025-05-01
 publishDate: 2025-05-01T00:00:00Z
 
-authors:
-  - Himani Pandey
-  - Jyoti Sharma
-  - Sourabh Kumar
-  - Nakul Mohan
-  - Vishesh Jain
-  - Anjan Kumar Dhua
-  - Devendra Kumar Yadav
-  - Ashish Kumar Dubey
-  - Prativa Choudhury
-  - Prabudh Goel
-
+author:
+  [
+    "Himani Pandey",
+    "Jyoti Sharma",
+    "Sourabh Kumar",
+    "Nakul Mohan",
+    "Vishesh Jain",
+    "Anjan Kumar Dhua",
+    "Devendra Kumar Yadav",
+    "Ashish Kumar Dubey",
+    "Prativa Choudhury",
+    "Prabudh Goel"
+  ]
+  
 publication_types:
   - article-journal
 
