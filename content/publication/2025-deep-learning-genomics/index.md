@@ -37,6 +37,12 @@ doi: "10.1007/978-1-0716-4690-8_20"
 
 url_pdf: "https://link.springer.com/protocol/10.1007/978-1-0716-4690-8_20"
 
+links:
+  - name: PDF
+    url: https://link.springer.com/protocol/10.1007/978-1-0716-4690-8_20
+  - name: DOI
+    url: https://doi.org/10.1007/978-1-0716-4690-8_20
+
 featured: false
 draft: false
 ---
