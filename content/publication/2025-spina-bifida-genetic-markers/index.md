@@ -54,6 +54,12 @@ doi: "10.4103/jiaps.jiaps_193_24"
 
 url_pdf: "https://journals.lww.com/jiap/fulltext/2025/30020/genetic_markers_of_spina_bifida.6.aspx"
 
+links:
+  - name: PDF
+    url: https://journals.lww.com/jiap/fulltext/2025/30020/genetic_markers_of_spina_bifida.6.aspx
+  - name: DOI
+    url: https://doi.org/10.4103/jiaps.jiaps_193_24
+
 featured: false
 draft: false
 ---
