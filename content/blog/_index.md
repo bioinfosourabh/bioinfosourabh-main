@@ -2,7 +2,7 @@
 author: Sourabh Kumar Daksh
 
 cascade:
-  author: Sourabh Kumar Daksh
+  author: Sourabh Kumar
   show_author_byline: true
   show_comments: false
   show_post_date: true
