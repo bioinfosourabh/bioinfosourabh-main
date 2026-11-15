@@ -1,29 +1,39 @@
-# Sourabh Kumar Daksh
+# bioinfosourabh.netlify.app
 
-I am a bioinformatician and Research Software Engineer, responsible for developing
-[The Carpentries Workbench](https://carpentries.github.io/workbench/).
+Source of the personal academic website of **Sourabh Kumar**, bioinformatics scientist working on clinical cancer and germline genomics.
 
-I have been developing R packages in the realms of population genetics, epidemiology, reproducible research, and publication since 2012.
-I enjoy cats 🐈‍⬛, baking 🥖, mushroom hunting 🍄, bad horror movies 👻, and good speculative fiction 📚.  
+Live site: <https://bioinfosourabh.netlify.app>
 
-Some of my projects include:
+## Contents
 
-## Projects
+The site presents my research profile, publications, projects and talks. My code is on GitHub: see <https://github.com/bioinfosourabh>, which lists the analysis pipelines (HRD scoring, TMB/MSI, CNV, variant calling, pharmacogenomics, transcriptomics) and machine-learning projects.
 
-- [`TrioExome-Analysis`](https://github.com/bioinfosourabh/TrioExome-Analysis):  
-  Clinical pipeline for trio-based whole exome sequencing with automated annotation and priortization.
+## Build
 
-- [`Variant-Prioritizer`](https://github.com/bioinfosourabh/Variant-Prioritizer):  
-  Framework for deleterious variant classification integrating CADD, SIFT, and dbNSFP.
+The site is built with [Hugo](https://gohugo.io/) (version pinned in `netlify.toml`) using the [Hugo Apéro](https://github.com/hugo-apero/hugo-apero) theme, and is deployed automatically by Netlify on each push to `main`.
 
-- [`WGS-AMR`](https://github.com/bioinfosourabh/WGS-AMR-Ecoli):  
-  Whole genome sequencing pipeline for identifying antimicrobial resistance markers.
+To preview locally:
 
-- [`Single-Cell-Analysis`](https://github.com/bioinfosourabh/Single-Cell-Analysis):  
-  Single Cell Data Analysis Workflow using the Seurat package
+```bash
+git clone --recurse-submodules https://github.com/bioinfosourabh/bioinfosourabh-main
+cd bioinfosourabh-main
+hugo server
+```
 
+Then open <http://localhost:1313>.
 
-![a mushroom growing from a bed of moss in front of a 200 year-old Bonsai in
-Portland's Japanese Garden](static/img/mushie-smol.jpg)
+| Path | Purpose |
+|---|---|
+| `config.toml` | site settings, menus and social links |
+| `content/` | pages: about, publications, projects, talks, blog |
+| `static/` | images and other static files |
+| `themes/hugo-apero/` | theme |
+| `netlify.toml` | Netlify build settings |
 
+## Credits
 
+The layout is based on the Hugo Apéro theme by Alison Hill and on an open-source personal site template; the content is my own.
+
+## Contact
+
+Sourabh Kumar · bioinfosourabh@gmail.com · ORCID [0009-0009-5840-9830](https://orcid.org/0009-0009-5840-9830)
