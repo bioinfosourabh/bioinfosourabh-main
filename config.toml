@@ -1,11 +1,11 @@
 baseURL = "https://bioinfosourabh.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Sourabh Kumar Daksh"
-author = "Sourabh Kumar Daksh"
+title = "Sourabh Kumar"
+author = "Sourabh Kumar"
 copyright = ""                           # set to override the auto generated copyright using org info and now year
-googleAnalytics = "UA-60561808-2"
-disqusShortname = "skdaksh"              # see params.utterances to use utterances instead of Disqus
+googleAnalytics = ""
+disqusShortname = ""              # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;"   # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
@@ -35,12 +35,12 @@ ordered = false
 style = "perldoc"
 
 [params]
-orgName = "Sourabh Kumar Daksh"
+orgName = "Sourabh Kumar"
 orgLocal = ""
-description = "My personal site that features my projects, publications, and blog where I talk about various subjects including R programming, reproducible science, and population genetics."
+description = "Sourabh Kumar, bioinformatics scientist in cancer and clinical genomics: analysis pipelines (HRD, TMB/MSI, CNV, variant calling, pharmacogenomics, transcriptomics), publications and notes."
 favicon = "/img/favicon.ico"
 logo = "/img/logo.png"
-mainSections = ["blog", "project", "talk"]
+mainSections = ["project", "blog"]
 navallcaps = true
 # show/hide social icons in site header & footer
 # configure social icons and links below in [[params.social]]
@@ -48,9 +48,9 @@ socialInHeader = false
 socialInFooter = true
 # Default image for social sharing and search engines. 
 # Place image file in `static` folder and specify image name here.
-sharing_image = "/img/mushie-smol.png"
+sharing_image = "/img/sourabh-kumar.jpg"
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "zkamvar"
+twitter = ""
 
 # use a built-in color theme
 # one of: forest / grayscale / peach / plum /
@@ -78,7 +78,7 @@ headingFontFamily = "sans-serif"
 # Configuration of https://utteranc.es/ for comments
 [params.utterances]
 use_utterances = false
-repo_name = "zkamvar/zkamvar"
+repo_name = ""
 issue_term = "pathname"           # url, pathname, or title
 theme = "boxy-light"
 label = "comments :crystal_ball:"
@@ -127,29 +127,24 @@ tag = "tags"
 # Configure header 
 [[menu.header]]
 name = "About"
-title = "My Bio"
+title = "About"
 url = "/about/"
 weight = 1
 [[menu.header]]
-name = "Blog"
-title = "Blog"
-url = "/blog/"
-weight = 2
-[[menu.header]]
 name = "Projects"
-title = "Project Portfolio"
+title = "Projects"
 url = "/project/"
-weight = 3
-[[menu.header]]
-name = "Talks"
-title = "Talks"
-url = "/talk/"
-weight = 4
+weight = 2
 [[menu.header]]
 name = "Publications"
 title = "Publications"
 url = "/publication/"
-weight = 5
+weight = 3
+[[menu.header]]
+name = "Blog"
+title = "Blog"
+url = "/blog/"
+weight = 4
 
 # Configure footer  
 [[menu.footer]]
@@ -159,14 +154,9 @@ url = "/license/"
 weight = 1
 [[menu.footer]]
 name = "Contact"
-title = "Contact form"
-url = "/contact/"
+title = "Email"
+url = "mailto:bioinfosourabh@gmail.com"
 weight = 2
-[[menu.footer]]
-name = "Contributors"
-title = "Contributors"
-url = "/contributors/"
-weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]

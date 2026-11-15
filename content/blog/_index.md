@@ -1,5 +1,5 @@
 ---
-author: Sourabh Kumar Daksh
+author: Sourabh Kumar
 
 cascade:
   author: Sourabh Kumar
@@ -24,7 +24,7 @@ show_post_date: true
 show_post_thumbnail: true
 
 sidebar:
-  author: Sourabh Kumar Daksh
+  author: Sourabh Kumar
   title: Genomics Notes
   description: >
     Writing about genomics, bioinformatics pipelines,

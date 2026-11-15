@@ -4,22 +4,7 @@ title: "Genetic landscape of congenital pouch colon: systematic review and funct
 date: 2024-11-18
 publishDate: 2024-11-18T00:00:00Z
 
-author:
-  [
-    "Shivani Phugat",
-    "Jyoti Sharma",
-    "Sourabh Kumar",
-    "Vishesh Jain",
-    "Anjan Kumar Dhua",
-    "Devendra Kumar Yadav",
-    "Vikesh Agrawal",
-    "Neeta Kumar",
-    "Ravi P. Reddy",
-    "Prashanth N. Suravajhala",
-    "Praveen Mathur",
-    "Sandeep Agarwala",
-    "Prabudh Goel"
-  ]
+author: "Shivani Phugat, Jyoti Sharma, Sourabh Kumar, Vishesh Jain, Anjan Kumar Dhua, Devendra Kumar Yadav, Vikesh Agrawal, Neeta Kumar, Ravi P. Reddy, Prashanth N. Suravajhala, Praveen Mathur, Sandeep Agarwala, Prabudh Goel"
 
 
 publication_types:

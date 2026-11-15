@@ -4,19 +4,7 @@ title: "Exploring Familial Hypospadias: Genetic Insights from Copy Number Varian
 date: 2024-09-08
 publishDate: 2024-09-08T00:00:00Z
 
-author:
-  [
-    "Sourabh Kumar",
-    "Jyoti Sharma",
-    "Dinesh Gupta",
-    "Rahila Sardar",
-    "Preeti Lal",
-    "Vishesh Jain",
-    "Anjan Kumar Dhua",
-    "Devendra Kumar Yadav",
-    "Sandeep Agarwala",
-    "Monis Bilal Shamsi"
-  ]
+author: "Sourabh Kumar, Jyoti Sharma, Dinesh Gupta, Rahila Sardar, Preeti Lal, Vishesh Jain, Anjan Kumar Dhua, Devendra Kumar Yadav, Sandeep Agarwala, Monis Bilal Shamsi"
 
 publication_types:
   - article-preprint
