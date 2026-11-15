@@ -3,7 +3,7 @@ title: "Single-cell RNA-seq with Seurat and SingleR"
 subtitle: "From count matrix to annotated cell types"
 excerpt: "A Seurat v5 workflow for droplet single-cell RNA-seq: QC, normalisation, clustering, marker genes, SingleR annotation and T/NK and myeloid sub-analysis."
 date: 2025-03-16
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 weight: 9
 tags:

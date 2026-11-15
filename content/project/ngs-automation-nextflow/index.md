@@ -3,7 +3,7 @@ title: "Germline and somatic variant calling in Nextflow"
 subtitle: "GATK4 best practices as a DSL2 pipeline"
 excerpt: "A Nextflow DSL2 pipeline for germline (HaplotypeCaller, joint genotyping) and somatic (Mutect2 tumour-normal or tumour-only) short-variant calling from FASTQ."
 date: 2026-11-15
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 weight: 4
 tags:

@@ -3,7 +3,7 @@ title: "A small LLM for critical reading of papers"
 subtitle: "QLoRA fine-tuning of TinyLlama-1.1B"
 excerpt: "A LoRA adapter trained with QLoRA so TinyLlama answers reviewer-style questions about a paper and returns claims, assumptions and limitations as validated JSON."
 date: 2026-02-17
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 weight: 10
 tags:

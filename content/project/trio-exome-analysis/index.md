@@ -3,7 +3,7 @@ title: "Trio exome analysis for rare disease"
 subtitle: "Inheritance-based filtering of proband–parent exomes"
 excerpt: "Germline calling for a proband and both parents, followed by filters for de novo, recessive, X-linked, dominant and parental mosaic candidate variants."
 date: 2025-04-02
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 weight: 7
 tags:

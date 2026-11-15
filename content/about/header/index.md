@@ -3,9 +3,12 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Sourabh Kumar
+  Sourabh Kumar Daksh.
 ---
 
-I am a bioinformatics scientist working on cancer and germline genomics in New Delhi, India. Over about five years I have built the analysis behind sequencing tests, first in research at the [All India Institute of Medical Sciences (AIIMS), New Delhi](https://www.aiims.edu/) and now in clinical diagnostics at the Centre for Genomics, Core Diagnostics, [Metropolis Healthcare](https://www.metropolisindia.com/).
+I am a Bioinformatics Scientist at [Metropolis Healthcare](https://www.metropolisindia.com/)
+supporting a fantastic team of clinical and wet-lab scientists.
+I am the former Research Scientist at [All India Institute of Medical Sciences (AIIMS), New Delhi](https://aiims.edu/index.php/en) contributing to genomic research projects. This work supported the development of a validated genomic analysis framework forming the basis of a national pediatric solid tumour gene panel.
+I’m trained in the computational analysis of next-generation sequencing data in clinical and translational genomics, with applications across oncology and inherited disorders.
 
-My work is mostly about getting a number right: the HRD score of a tumour, its mutational burden, a copy-number call, a star-allele diplotype. That means building the pipeline, then testing it against data with known answers and finding out where and why it disagrees. I want to take this further in a **PhD in computational genomics, cancer genomics or AI for genomics**, developing and validating methods for sequencing data that are used in the clinic.
+This site serves as my personal space where I document and discuss genome-scale data analysis, clinical sequencing studies, and methods for maintaining analytical clarity and reproducibility in genomic research.

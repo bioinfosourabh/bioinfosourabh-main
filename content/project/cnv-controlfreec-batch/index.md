@@ -3,7 +3,7 @@ title: "Cohort CNV calling with Control-FREEC"
 subtitle: "Sample-sheet-driven copy-number analysis for many tumours"
 excerpt: "Runs Control-FREEC across a cohort from one sample sheet and one config template, then adds significance testing, plots and a merged cohort CNV table."
 date: 2026-11-15
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 weight: 3
 tags:

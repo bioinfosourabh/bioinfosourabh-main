@@ -3,7 +3,7 @@ title: "Sequenza 4 silently ignores scarHRD's segmentation settings"
 subtitle: "A version mismatch that compresses high HRD scores"
 excerpt: "scarHRD passes gamma and kmin to Sequenza, but Sequenza 4.0.0 no longer uses them and does not complain. On public reference data, this pulled high HRD scores down by about 24 points on average."
 date: 2026-11-15
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 tags:
   - HRD

@@ -1,5 +1,5 @@
 ---
-author: Sourabh Kumar
+author: Sourabh Kumar Daksh
 cascade:
   show_author_byline: true
   show_comments: false
@@ -15,7 +15,7 @@ show_button_links: false
 show_post_date: false
 show_post_thumbnail: true
 sidebar:
-  author: Sourabh Kumar
+  author: Sourabh Kumar Daksh
   description: "Pipelines and methods, with code on GitHub."
   show_sidebar_adunit: false
   text_link_label: ""

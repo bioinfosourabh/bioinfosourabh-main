@@ -3,7 +3,7 @@ title: "TMB and MSI from tumour panels"
 subtitle: "Tumour mutational burden and microsatellite instability with auditable filtering"
 excerpt: "Tumour mutational burden over a depth-defined callable territory, with tumour-only germline removal using gnomAD 4.1 and Indian population frequencies, and MSI status from MSIsensor-pro or MSIsensor2."
 date: 2026-11-15
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 weight: 2
 tags:

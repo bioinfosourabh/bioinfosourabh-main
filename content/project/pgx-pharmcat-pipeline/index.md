@@ -3,7 +3,7 @@ title: "Pharmacogenomics from exomes with PharmCAT"
 subtitle: "Star-allele diplotypes, phenotypes and guideline recommendations"
 excerpt: "A laboratory workflow around PharmCAT 3.2.0 for WES data: input checks, CYP2D6 outside calls, QC at pharmacogene positions and concordance checks against GeT-RM reference samples."
 date: 2026-11-15
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 weight: 6
 tags:

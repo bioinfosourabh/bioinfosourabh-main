@@ -3,7 +3,7 @@ title: "Transcriptomic response to neoadjuvant chemotherapy"
 subtitle: "Bulk RNA-seq of pre-treatment breast tumours (GSE192341)"
 excerpt: "DESeq2, xCell cell-type enrichment and pathway analysis comparing breast tumours that reached pathological complete response with those that did not."
 date: 2026-02-04
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 weight: 8
 tags:

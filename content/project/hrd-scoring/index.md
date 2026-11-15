@@ -3,7 +3,7 @@ title: "HRD genomic scar scoring"
 subtitle: "Sequenza + scarHRD, validated on 97 public tumours"
 excerpt: "A pipeline for the homologous recombination deficiency score (LOH + TAI + LST) from tumour sequencing, with matched and pooled-normal modes and a validation against published scores on 97 public tumours."
 date: 2026-11-15
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 weight: 1
 tags:

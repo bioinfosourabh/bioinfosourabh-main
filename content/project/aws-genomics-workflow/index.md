@@ -3,7 +3,7 @@ title: "Genomics pipelines on AWS Batch"
 subtitle: "Terraform infrastructure for Nextflow in the cloud"
 excerpt: "Terraform for S3, AWS Batch (Spot and On-Demand, scaling to zero), least-privilege IAM and budget alerts, with launch scripts to run Nextflow pipelines on it."
 date: 2026-11-15
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 weight: 11
 tags:

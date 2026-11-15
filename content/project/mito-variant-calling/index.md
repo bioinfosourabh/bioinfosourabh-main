@@ -3,7 +3,7 @@ title: "Mitochondrial variants and heteroplasmy"
 subtitle: "The GATK mitochondria workflow in Nextflow"
 excerpt: "Calls mitochondrial SNVs, indels and heteroplasmy levels from whole-genome BAM/CRAM, with shifted-reference calling of the control region, NuMT filtering and Haplogrep 3 haplogroups."
 date: 2026-11-15
-author: "Sourabh Kumar"
+author: "Sourabh Kumar Daksh"
 draft: false
 weight: 5
 tags:
